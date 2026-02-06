@@ -1,0 +1,6 @@
+numpy==2.2.4
+pydicom==3.0.1
+matplotlib==3.9.3
+itertools
+os
+scipy.ndimage
